@@ -1,6 +1,8 @@
 # GlobalBuildingAtlas BuildingCreator
 The [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) BuildingCreator plugin for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) is based on the open plugin interface. To be able to create the plugin, the plugin SDK is required. Simply copy the content of the current SDK version into the plugin folder.
 
+<img width="3613" height="931" alt="grafik" src="https://github.com/user-attachments/assets/2fcdc5a2-62e2-4362-93e3-7fd731d6bebf" />
+
 ## Dependencies
 
 ### Use of vcpkg:
