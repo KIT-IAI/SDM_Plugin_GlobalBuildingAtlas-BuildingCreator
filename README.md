@@ -16,9 +16,9 @@ The plugin is based on the open plugin interface. To be able to create the plugi
 
 ```bibtex
 @software{SDM_Plugin_GlobalBuildingAtlas-BuildingCreator,
-	title        = {SDM_Plugin_GlobalBuildingAtlas-BuildingCreator},
-	author       = {{Andreas Geiger}},
+	title        = {{SDM\_Plugin\_GlobalBuildingAtlas-BuildingCreator}},
+	author       = {Andreas Geiger}
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator},
-	date         = {2025}
+	year         = {2025}
 }
 ```
