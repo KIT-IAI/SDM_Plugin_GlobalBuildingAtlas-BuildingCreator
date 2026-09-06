@@ -9,8 +9,8 @@ The plugin is based on the open plugin interface. To be able to create the plugi
 
 |Package Name         |Install Command                            |
 |:---                 |:---                                       |
-|fmt                  |vcpkg install fmt triplet=x64-windows      
-
+|fmt                  |vcpkg install fmt triplet=x64-windows      |
+|geographiclib 	      |vcpkg install geographiclib triplet=x64-windows|
 
 ## How to cite
 
